@@ -10,6 +10,6 @@
   "author": "",
   "license": "BSD",
   "dependencies": {
-    "nunjucks": "~0.1.8a",
+    "nunjucks": "~1.0.0"
   }
 }
